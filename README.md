@@ -13,9 +13,9 @@
 
 **Built by [Ahmed Darwish](mailto:eahmeddarwish@gmail.com)**
 
-[📖 How it works](#-how-it-works--كيف-يعمل) · [⚠️ Honest Limitations](#-honest-limitations--محدوديات-صادقة) · [🚀 Quick Start](#-quick-start--البدء-السريع) · [⭐ Star on GitHub](https://github.com/eahmeddarwish/esp8266-fingerprint-mqtt)(docs/MODEL_CARD.md)
+[📖 How it works](#-how-it-works--كيف-يعمل) · [⚠️ Honest Limitations](#-honest-limitations--محدوديات-صادقة) · [🚀 Quick Start](#-quick-start--البدء-السريع) · [⭐ Star on GitHub](https://github.com/eahmeddarwish/esp8266-fingerprint-mqtt) (docs/MODEL_CARD.md)
 
-![Puck robot state machine](docs/esp8266-fingerprint.png)
+![ESP8266 Fingerprint](docs/esp8266-fingerprint.png)
 </div>
 
 
