@@ -1,0 +1,14 @@
+# Never commit real credentials
+secrets.h
+*.env
+
+# Arduino build output
+build/
+*.hex
+*.elf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
